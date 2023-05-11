@@ -6,7 +6,7 @@ I'm Full Stack Developer who is passionate about writing code, solving problems,
 
 - 🔭 I’m using MERN stack & Flutter.
 - 📗 I have plan to learn IOS Development & AWS cloud services.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/muhammad-usman9696/) [Gmail](mailto:muhammadusman9696@gmail.com) [Upwork](https://www.upwork.com/freelancers/muhammadusmanamin)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/saas-product-developer/) [Gmail](mailto:muhammadusman9696@gmail.com) [Upwork](https://www.upwork.com/freelancers/muhammadusmanamin)
 
 ---
 
